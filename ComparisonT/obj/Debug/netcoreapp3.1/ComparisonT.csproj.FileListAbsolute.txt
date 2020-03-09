@@ -1,0 +1,11 @@
+D:\Documentos\C#\ComparisonT\ComparisonT\bin\Debug\netcoreapp3.1\ComparisonT.exe
+D:\Documentos\C#\ComparisonT\ComparisonT\bin\Debug\netcoreapp3.1\ComparisonT.deps.json
+D:\Documentos\C#\ComparisonT\ComparisonT\bin\Debug\netcoreapp3.1\ComparisonT.runtimeconfig.json
+D:\Documentos\C#\ComparisonT\ComparisonT\bin\Debug\netcoreapp3.1\ComparisonT.runtimeconfig.dev.json
+D:\Documentos\C#\ComparisonT\ComparisonT\bin\Debug\netcoreapp3.1\ComparisonT.dll
+D:\Documentos\C#\ComparisonT\ComparisonT\bin\Debug\netcoreapp3.1\ComparisonT.pdb
+D:\Documentos\C#\ComparisonT\ComparisonT\obj\Debug\netcoreapp3.1\ComparisonT.csprojAssemblyReference.cache
+D:\Documentos\C#\ComparisonT\ComparisonT\obj\Debug\netcoreapp3.1\ComparisonT.AssemblyInfoInputs.cache
+D:\Documentos\C#\ComparisonT\ComparisonT\obj\Debug\netcoreapp3.1\ComparisonT.AssemblyInfo.cs
+D:\Documentos\C#\ComparisonT\ComparisonT\obj\Debug\netcoreapp3.1\ComparisonT.dll
+D:\Documentos\C#\ComparisonT\ComparisonT\obj\Debug\netcoreapp3.1\ComparisonT.pdb
